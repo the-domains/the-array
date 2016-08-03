@@ -1,0 +1,14 @@
+layout_spectrum: 0.39156403043307364
+typography_spectrum: 0.8922707091551274
+color:
+  brandStrength: 0.5138714259956032
+  lightness: 0.32589279278181493
+  saturation: 0.793083778116852
+  rhythmicContrast: 0.2420282931998372
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: The Array
