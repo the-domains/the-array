@@ -11,6 +11,8 @@ color:
     - '#85A5CC'
     - '#D0E4F2'
 layout_spectrum: 0.39156403043307364
+analytics:
+  google: UA-47632366-1
 author:
   email: sebako86@gmail.com
   url: www.allyoucanlead.de
